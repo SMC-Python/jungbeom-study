@@ -66,5 +66,5 @@ for tr in trs :
 
 with open('./code_1.json', 'w', encoding='utf-8') as f :
     f.write(json.dumps(datas, ensure_ascii=False))
-
+    
 

@@ -19,6 +19,6 @@ def get_user(username: str):
 def get_user(username: str):
     return {'username' : username}
 
-#/docs
-#/redoc
+# /docs
+# /redoc
 # activate = uvicorn code_1:app --reload
